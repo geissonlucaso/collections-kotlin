@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6502815c-e688-4795-8031-0bb3a5075d78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ArrayString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IntArrayOf.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CollectionsKotlin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/collections.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_common_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_jetbrains_kotlin_kotlin_test_junit5_1_7_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/consoleApp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/src/main/kotlin/org/example/collections/TestIntArray.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CollectionsKotlin/target/classes/META-INF/consoleApp.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +35,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/dev/repo/Kotlin/Simple Chatty Bot"
   }
 }]]></component>
   <component name="RunManager">
