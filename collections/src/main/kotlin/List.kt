@@ -1,9 +1,9 @@
 package org.example.collections
 
 fun main() {
-    val geisson = Employee("Geisson", 2500.0)
-    val patrick = Employee("Patrick", 2000.0)
-    val giulia = Employee("Giulia", 2200.0)
+    val geisson = Employee("Geisson", 2500.0, "CLT")
+    val patrick = Employee("Patrick", 2000.0, "PJ")
+    val giulia = Employee("Giulia", 2200.0, "CLT")
 
     val listEmployee = listOf<Employee>(geisson, patrick, giulia)
 
@@ -23,12 +23,9 @@ fun main() {
         .sortedBy { it.salary }
         .forEach { println(it) }
     println("---------------------------")
-    
-}
+    listEmployee
+        .groupBy { it.type }
+        .forEach { println(it) }
+    println("---------------------------")
 
-data class Employee(
-    val name:String,
-    val salary:Double
-) {
-    override fun toString(): String = "$name, $salary".trimIndent()
 }
