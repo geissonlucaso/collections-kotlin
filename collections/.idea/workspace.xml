@@ -5,101 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6502815c-e688-4795-8031-0bb3a5075d78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/DoubleArray.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CollectionsKotlin/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/externalDependencies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_github_hyperskill_hs_test_release_SNAPSHOT.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__commons_codec_commons_codec_1_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_9.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_11.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_core_3_11_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_swing_3_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_assertj_assertj_swing_junit_3_9_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_easytesting_fest_reflect_1_4_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_easytesting_fest_util_1_2_5.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_jetbrains_annotations_13_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_1_6_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_common_1_6_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk7_1_6_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/libraries/Gradle__org_jetbrains_kotlin_kotlin_stdlib_jdk8_1_6_10.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple Chatty Bot/task/Simple_Chatty_Bot.Simple_Chatty_Bot-task.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Simple_Chatty_Bot.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Printing each word in a new line/Simple_Chatty_Bot.Topics-Standard_input-Printing_each_word_in_a_new_line.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Printing each word in a new line/Simple_Chatty_Bot.Topics-Standard_input-Printing_each_word_in_a_new_line.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Printing each word in a new line/Simple_Chatty_Bot.Topics-Standard_input-Printing_each_word_in_a_new_line.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Statements/Simple_Chatty_Bot.Topics-Standard_input-Statements.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Statements/Simple_Chatty_Bot.Topics-Standard_input-Statements.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Statements/Simple_Chatty_Bot.Topics-Standard_input-Statements.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading (1)/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading__1_.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading (1)/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading__1_.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading (1)/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading__1_.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Successful reading/Simple_Chatty_Bot.Topics-Standard_input-Successful_reading.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Theory/Simple_Chatty_Bot.Topics-Standard_input-Theory.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Theory/Simple_Chatty_Bot.Topics-Standard_input-Theory.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/Topics/Standard input/Theory/Simple_Chatty_Bot.Topics-Standard_input-Theory.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/modules/util/Simple_Chatty_Bot.util.test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Chatty Bot welcomes you/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Guess the age/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Learning numbers/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Multiple choice/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Print your name/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Print your name/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/Print your name/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/src/bot/SimpleBot.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Simple Chatty Bot/task/test/ChattyBotTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Printing each word in a new line/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Printing each word in a new line/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Printing each word in a new line/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Printing each word in a new line/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Statements/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Statements/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Statements/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Statements/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading (1)/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading (1)/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading (1)/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading (1)/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Successful reading/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Theory/src/Main.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Theory/task-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Theory/task-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/Theory/task.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/Standard input/lesson-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/Topics/section-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/course-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/course-remote-info.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Simple Chatty Bot/settings.gradle" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operations.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/consoleApp.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/consoleApp.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +41,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/dev/repo/Kotlin/Simple Chatty Bot&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DoubleArrayKt">
+  <component name="RunManager" selected="Kotlin.OperationsKt">
     <configuration name="ArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collections.ArrayStringKt" />
       <module name="consoleApp" />
@@ -148,8 +56,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OperationsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.OperationsKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.OperationsKt" />
         <item itemvalue="Kotlin.DoubleArrayKt" />
         <item itemvalue="Kotlin.ArrayStringKt" />
       </list>
