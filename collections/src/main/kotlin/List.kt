@@ -18,6 +18,12 @@ fun main() {
     println("---------------------------")
     val employee = listEmployee.filter { it.name == "Giulia" }
     println(employee)
+    println("---------------------------")
+    listEmployee
+        .sortedBy { it.salary }
+        .forEach { println(it) }
+    println("---------------------------")
+    
 }
 
 data class Employee(
