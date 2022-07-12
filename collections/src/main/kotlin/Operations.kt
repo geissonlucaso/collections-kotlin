@@ -8,10 +8,10 @@ fun main() {
     }
     println("----------------------")
     println("Maior: ")
-    println(salarios.max())
+    println(salarios.maxOrNull())
     println("----------------------")
     println("Menor: ")
-    println(salarios.min())
+    println(salarios.minOrNull())
     println("----------------------")
     println("Média: ")
     println(salarios.average())
@@ -24,5 +24,4 @@ fun main() {
     println(salarios.find { it == 3000.0 })
     println("----------------------")
     println(salarios.any { it == 1000.0 })
-
 }
