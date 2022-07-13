@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6502815c-e688-4795-8031-0bb3a5075d78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Repository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableMap.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/BigDecimalOperations.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionsFunctions.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Repository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Repository.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +42,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/dev/repo/Kotlin/Simple Chatty Bot&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.MutableMapKt">
-    <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collections.ListKt" />
+  <component name="RunManager" selected="Kotlin.ExtensionsFunctionsKt">
+    <configuration name="ExtensionsFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.ExtensionsFunctionsKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionsFunctionsKt" />
         <item itemvalue="Kotlin.MutableMapKt" />
         <item itemvalue="Kotlin.MutableListOfKt" />
         <item itemvalue="Kotlin.MapOfKt" />
         <item itemvalue="Kotlin.SetOfKt" />
-        <item itemvalue="Kotlin.ListKt" />
       </list>
     </recent_temporary>
   </component>
