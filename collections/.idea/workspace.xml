@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6502815c-e688-4795-8031-0bb3a5075d78" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Employee.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SetOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/MapOf.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/List.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/List.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/consoleApp.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/META-INF/consoleApp.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/consoleApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consoleApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +43,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/dev/repo/Kotlin/Simple Chatty Bot&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SetOfKt">
-    <configuration name="ArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.collections.ArrayStringKt" />
-      <module name="consoleApp" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.MapOfKt">
     <configuration name="DoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collections.DoubleArrayKt" />
       <module name="consoleApp" />
@@ -60,6 +53,13 @@
     </configuration>
     <configuration name="ListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.collections.ListKt" />
+      <module name="consoleApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.collections.MapOfKt" />
       <module name="consoleApp" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -81,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MapOfKt" />
         <item itemvalue="Kotlin.SetOfKt" />
         <item itemvalue="Kotlin.ListKt" />
         <item itemvalue="Kotlin.OperationsKt" />
         <item itemvalue="Kotlin.DoubleArrayKt" />
-        <item itemvalue="Kotlin.ArrayStringKt" />
       </list>
     </recent_temporary>
   </component>
